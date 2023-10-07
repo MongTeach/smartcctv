@@ -1,4 +1,5 @@
 # smartcctv
+# new versi menambahkan uuid
 
 **Python packages required:**
 * cvzone 1.5.6
